@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='TestTemplate'/>
+        <page name='challenge 1'/>
+        <page name='challenge 2'/>
+        <page name='challenge 3'/>
+        <page name='challenge 4'/>
+        <page name='challenge 5'/>
+    </pages>
+</playground>
