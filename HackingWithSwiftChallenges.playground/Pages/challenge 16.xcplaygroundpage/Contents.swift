@@ -38,3 +38,14 @@ challenge16b()
 
 // you can use forEach, but it looks like we sacrifice readability for bragging rights
 // not sure how the performance differs but we don't have to evaluate i % 3 twice anymore
+
+
+
+
+
+let num = 5
+
+func dupes(input: String) -> Bool {
+    
+    return Set(input.characters)
+}
