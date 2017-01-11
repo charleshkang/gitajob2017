@@ -13,5 +13,8 @@
         <page name='challenge 17'/>
         <page name='challenge 18'/>
         <page name='challenge 19'/>
+        <page name='leetcode questions'/>
+        <page name='challenge 58'/>
+        <page name='be the compiler(novice)'/>
     </pages>
 </playground>

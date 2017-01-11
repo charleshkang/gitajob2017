@@ -15,4 +15,4 @@ func challenge17b(min: Int, max: Int) -> Int {
     return Int(arc4random_uniform(UInt32(max - min + 1))) + min
 }
 challenge17b(min: 12, max: 12)
-// took 13mins 
+// took 13mins

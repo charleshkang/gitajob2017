@@ -4,7 +4,7 @@ import Foundation
 
 func challenge18(num: Int, pow: Int) -> Int {
     guard num > 0, pow > 0 else { return 0 }
-    var returnValue = num    
+    var returnValue = num
     for _ in 1..<pow {
         returnValue *= num
     }
