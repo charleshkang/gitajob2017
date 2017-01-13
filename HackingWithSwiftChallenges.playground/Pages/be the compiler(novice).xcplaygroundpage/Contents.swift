@@ -69,4 +69,4 @@ import Foundation
  30. d, code won't comple because the sqrt() function can be called using 2 different types of parameter, neither of which are integers. so number is considered to be an integer which can't be used by sqrt unless typecasted to a double
  
  */
-// 12/30 correct 😱 it's okay though. you learned a lot and will be able to apply this knowledge in the future 
+// 12/30 correct 😱 it's okay though. you learned a lot and will be able to apply this knowledge in the future
