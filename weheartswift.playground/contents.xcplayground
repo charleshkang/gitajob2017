@@ -2,6 +2,7 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='higher order functions'/>
-        <page name='weheartswift'/>
+        <page name='reference vs value'/>
+        <page name='code challenge'/>
     </pages>
 </playground>

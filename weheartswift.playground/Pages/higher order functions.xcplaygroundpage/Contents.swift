@@ -54,7 +54,7 @@ print(stringsReduced)
 
 // i'm not really sure what the purpose of $1 is here? i sort of do, but not really. because my understanding is that $0 covers all the elements in the strings array, so therefore $0 would cover all the values? asked in the slack, hope i get an answer
 // ANSWER: the lambda definition in reduce is `(Result, Self.Iterator.Element) throws -> Result`, so $1 is the array element, $0 is the accumulator (initially `""`, then whatever string was returned from the previous call)
-// my understanding of shorthand syntax was wrong i guess. $0 in this case is the accumulator and $1 are the array elements in this example
+// my understanding of shorthand syntax was wrong in this case. $0 in this case is the accumulator and $1 are the array elements in this example
 
 // Write a reduce function that finds the largest element in an array of Ints
 let intArr = [1,2,3,4,12,301,6,10]

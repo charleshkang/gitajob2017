@@ -18,4 +18,6 @@ func challenge2b(input: String) -> Bool {
     let lowercase = input.lowercased()
     return lowercase.characters.reversed() == Array(lowercase.characters)
 }
-challenge2b(input: "maDDam")
+challenge2b(input: "moom")
+
+

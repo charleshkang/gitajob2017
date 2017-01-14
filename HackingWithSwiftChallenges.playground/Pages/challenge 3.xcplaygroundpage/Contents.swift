@@ -9,6 +9,7 @@ func challenge3(input1: String, input2: String) -> Bool {
     return orderedStringA == orderedStringB
 }
 challenge3(input1: "abca", input2: "abca")
+challenge3(input1: "bcaa", input2: "cbaa")
 challenge3(input1: "abc", input2: "cbAa")
 challenge3(input1: " a1 b2 ", input2: "b 1 a 2")
 
