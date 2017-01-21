@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Palindrome'/>
+        <page name='Anagrams'/>
+        <page name='Balanced Parens'/>
+        <page name='DFS'/>
+        <page name='String Ranges'/>
+        <page name='Median'/>
+        <page name='Untitled Page'/>
+        <page name='Codility'/>
+        <page name='Untitled Page 2'/>
+        <page name='Reverse Array In Place'/>
+        <page name='Nth Fibo(Recursive)'/>
+        <page name='nth Smallest + Largest'/>
+        <page name='No Dupes'/>
+        <page name='Nth Fibonacci #(Recursive)'/>
+        <page name='All the things'/>
+    </pages>
+</playground>
