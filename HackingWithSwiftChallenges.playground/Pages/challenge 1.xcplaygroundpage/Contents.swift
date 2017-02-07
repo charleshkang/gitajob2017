@@ -16,3 +16,8 @@ challenge1(input: "charles")
 func challenge1b(input: String) -> Bool {
     return Set(input.characters).count == input.characters.count
 }
+
+
+func challenge1c(input: String) -> Bool {
+    return Set(input.characters).count == input.characters.count
+}

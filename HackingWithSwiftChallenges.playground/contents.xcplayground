@@ -12,6 +12,8 @@
         <page name='challenge 16'/>
         <page name='challenge 17'/>
         <page name='challenge 18'/>
+        <page name='challenge 20'/>
+        <page name='challenge 37'/>
         <page name='challenge 19'/>
         <page name='leetcode questions'/>
         <page name='challenge 58'/>
@@ -19,5 +21,6 @@
         <page name='re-do'/>
         <page name='challenge 13'/>
         <page name='challenge 15'/>
+        <page name='challenge 43'/>
     </pages>
 </playground>
